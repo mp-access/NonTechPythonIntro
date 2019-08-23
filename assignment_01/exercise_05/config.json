@@ -1,0 +1,8 @@
+{
+    "type":"multipleChoice",
+    "solutions": [24, 22, 25, 23],
+    "options": [24, 22, 25, 23],
+    "isGraded": false,
+    "maxScore": 3,
+    "maxSubmits": 2
+}

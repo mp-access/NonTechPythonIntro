@@ -1,6 +1,5 @@
 {
-    "type":"codeSnippet",
+    "type":"code",
     "language":"python",
-    "maxSubmits": 2,
-    "maxScore": 5
+    "maxSubmits": 3
 }
