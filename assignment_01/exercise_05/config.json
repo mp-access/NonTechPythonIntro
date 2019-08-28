@@ -1,7 +1,7 @@
 {
     "type":"multipleChoice",
-    "solutions": [24, 22, 25, 23],
-    "options": [24, 22, 25, 23],
+    "solutions": ["Exception", "StopIteration", "SystemExit", "EOFError", "UnboundLocalError", "NotImplementedError"],
+    "options": ["Exception", "StopIteration", "SystemExit", "EOFError", "UnboundLocalError", "NotImplementedError", "InputNotFoundError"],
     "isGraded": false,
     "maxScore": 3,
     "maxSubmits": 2

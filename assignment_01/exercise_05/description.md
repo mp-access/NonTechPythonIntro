@@ -1,11 +1,3 @@
-# Output
+# Exceptions
 
-What is the output of the following snippet of code?
-
-r = lambda q: q * 2
-s = lambda q: q * 3
-x = 2
-x = r(x) 
-x = s(x) 
-x = r(x) 
-print x 
+Which of the following are Standard Pyhton Expections?

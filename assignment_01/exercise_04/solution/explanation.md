@@ -1,3 +1,3 @@
-#How does this work
+#Explanation
 
-Well, if we add 5+5, we get 10, and then we add 10 ten times more, so the solution is 100.
+In Python the precedence order is first NOT then AND and in last OR. So the if condition and second elif condition evaluates to False while third elif condition is evaluated to be True resulting in 3 as output.

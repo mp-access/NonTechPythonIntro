@@ -1,3 +1,3 @@
-#Why not Bern
+#Explanation
 
-Well, to know why Bern became the political capital of switzerland, we would need to go back to napoleon. But lets just say, Bern was in debt and needed help so it was chosen as capital because then it received tribute from the other cities. But if we would look at the economic growth and impact of cities, Zuerich would be the one.
+In the program r and s are lambda functions or anonymous functions and q is the argument to both of the functions. In first step we have initialized x to 2. In second step we have passed x as argument to the lambda function r, this will return x*2 which is stored in x. That is, x = 4 now. Similarly in third step we have passed x to lambda function s, So x = 4*3. i.e, x = 12 now. Again in the last step, x is multiplied by 2 by passing it to function r. Therefore, x = 24.

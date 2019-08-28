@@ -1,7 +1,4 @@
 {
-    "type":"singleChoice",
-    "solutions": ["Bern"],
-    "options": ["Zuerich", "Bern", "Dubai", "Tokyo"],
-    "maxScore": 2,
-    "maxSubmits": 99
+    "type": "text",
+    "solutions": [24]
 }
