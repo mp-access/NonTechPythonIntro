@@ -13,3 +13,14 @@ You should have received a preconfigured and registered repo from us, containing
 
 ## Student registration
 In the config.json file of the repo itself, you have to add the emails of the students themselves provided by them. Preferrably their uzh address, but if for any reason they did not receive their account from uzh yet, any email address would work. They will receive a link where they can register in our app (set a password) which will give them access to this course, where they will be able to solve the corresponding assignments (that get published according to the dates set in their config file).
+
+### Config
+Please note that for the choice exercises, the solution is included in the config file, specifically as index for the options array. Meaning if you include options like 
+
+"options": ["Javascript", "Pyhton", "Java", "C++"],
+
+for the solutions to include Javascript and C++, the config would need to be configured like this:
+
+    "solutions": [0, 3],
+
+This was a design decision on our part as to avoid incorrect or non-existing answers (incorrect linking to options) because of spelling errors.
