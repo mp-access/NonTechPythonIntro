@@ -3,6 +3,7 @@
     "description": "Example Repository: Non Technical Pyhton Introduction Course",
     "startDate":"2019-06-29",
     "endDate":"2019-11-15",
+    "semester":"HS 2019",
     "owner": "dr.prof@uzh.ch",
     "assistants": [
         "ludwig.abeille@uzh.ch"
