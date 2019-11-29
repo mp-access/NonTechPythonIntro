@@ -1,5 +1,3 @@
-# Python conditionals
-
 a = True
 b = False
 c = False

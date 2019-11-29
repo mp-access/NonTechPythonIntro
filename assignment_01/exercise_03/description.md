@@ -1,5 +1,3 @@
-# Simple Calculus to get started into computer science
-
 Predict the output of following python program:
 
 r = lambda q: q * 2

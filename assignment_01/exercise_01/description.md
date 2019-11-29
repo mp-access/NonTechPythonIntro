@@ -1,5 +1,3 @@
-# Task: UZH Airlines (5 Points)
-
 In this task you will model the information system of aircrafts and control tower of an airport. Let’s begin with the class `Aircraft` after which all types of planes will be modeled. Each aircraft can carry a certain `number_of_passengers` and has a model `name`. Save these as protected in- stance variables as each plane subclass should have access to these. Add getter methods to access these variables:
 
 - `get_number_of_passengers`

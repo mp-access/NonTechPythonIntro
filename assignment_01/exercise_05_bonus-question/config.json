@@ -1,4 +1,5 @@
 {
+	"title": "Exceptions",
     "type":"multipleChoice",
     "solutions": [0, 1, 2, 3, 4, 5],
     "options": ["Exception", "StopIteration", "SystemExit", "EOFError", "UnboundLocalError", "NotImplementedError", "InputNotFoundError"],
